@@ -10,20 +10,23 @@ some **bold** text __here__ and __here__.
 and some *Italic* text _here_ also.
 i want to show ~~this~~ crossed.
 > And quote this.
+
 some list like:
 * this
 * that
+    * ye bhi
 * etc
-
+---
+___
 and numbered list like:
 1. this
 1. vagehra
 1. vagehra
 
 oh yeah and checkboxes:
-[x] ticked
-[ ] not this one
-[x] doing something good
+* [x] ticked
+* [ ] not this one
+* [x] doing something good
 
 and of course some code
 ```python
@@ -35,3 +38,6 @@ else :
 ```
 don't know what it does
 ` Let's see `
+
+Aur links bhi jaise
+[Google](https://www.google.com/ 'Ha google ki hi link hai')
