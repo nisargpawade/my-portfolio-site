@@ -140,6 +140,19 @@ hr {
   padding: 2rem;
 }
 
+/* blog images */
+
+.container-center .img-blog{
+  display: block;
+  margin: auto;
+  padding: 1rem 0rem 2rem 0rem ;
+}
+
+.container-center .img-blog1{
+  max-width: 500px;
+}
+
+
 /* footer */
 
 .footer {
