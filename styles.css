@@ -120,6 +120,7 @@ hr {
 
 .hero .hero-img-home {
   max-width: 275px;
+  padding-right: 1.5rem;
 }
 
 .hero .hero-img-projects {
@@ -138,6 +139,29 @@ hr {
 .hero .hero-heading .heading-highlight {
   color: var(--primary-color);
 }
+
+.hero-home {
+  display: flex;
+  justify-content: center;
+  margin-right: 0px;
+}
+
+.hero-home .hero-heading-home {
+  text-align: left;
+}
+/* 
+  display: inline-block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+
+.hero-heading-home {
+  display: inline-block;
+  width: 50%;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+} */
 
 /* sections */
 
