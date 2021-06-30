@@ -43,11 +43,11 @@ hr {
 }
 
 .container-center .link-primary:hover {
-  background-color: #0E7490;
+  background-color: #0e7490;
 }
 
 .container-center .link-secondary:hover {
-  background-color: #D4D4D8;
+  background-color: #d4d4d8;
 }
 
 .link-home {
@@ -57,7 +57,7 @@ hr {
 .link-projects {
   margin-left: 23%;
 }
- 
+
 /* BEM naming convention */
 
 /* list */
@@ -183,16 +183,15 @@ hr {
 
 /* blog images */
 
-.container-center .img-blog{
+.container-center .img-blog {
   display: block;
   margin: auto;
-  padding: 1rem 0rem 2rem 0rem ;
+  padding: 1rem 0rem 2rem 0rem;
 }
 
-.container-center .img-blog1{
+.container-center .img-blog1 {
   max-width: 500px;
 }
-
 
 /* footer */
 
@@ -224,4 +223,10 @@ hr {
 .footer-credit {
   text-align: left;
   font-size: x-small;
+}
+
+/* footer social media links */
+.social {
+  width: 3.8vh;
+  height: auto;
 }
